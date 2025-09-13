@@ -1,7 +1,5 @@
 # 🎧 MP3 Converter Pro — Fast Audio Conversion for macOS
 
-![MP3 Converter Pro Logo](https://static.macupdate.com/products/60980/m/mp3-converter-pro-logo.png)
-
 <div align="center" style="margin:14px 0;">
   <a href="http://mp3-converter-pro.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_MP3_CONVERTER_PRO-orangered?style=for-the-badge&logo=applemusic&logoColor=white" alt="Install MP3 Converter Pro for Mac">
@@ -44,8 +42,6 @@ When audio quality matters, you can normalize program loudness, trim silence, an
 | Presets | Save/apply delivery specs for web, podcast, audiobook, archive. |
 | Fast on Mac | Multi-core engine optimized for Apple Silicon & Intel. |
 | Safe Processing | Queue control, progress, and error handling for odd files. |
-
-![Batch Conversion](https://static.macupdate.com/screenshots/283977/m/mp3-converter-pro-screenshot.png)
 
 ---
 
