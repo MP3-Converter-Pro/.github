@@ -62,8 +62,6 @@ When audio quality matters, you can normalize program loudness, trim silence, an
 - **Voice/audiobook**: Mono 64–96 kbps with consistent loudness and trim.  
 - **Archive cleanup**: FLAC/WAV to MP3 with standardized tags & filenames.
 
-![Alternative UI](https://tresrrr.com/wp-content/uploads/2017/11/Launch-All2MP3-for-Mac.png)
-
 ---
 
 ## 🖥 Requirements
